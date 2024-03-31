@@ -1,4 +1,4 @@
-[!MasterHead](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-design.png)
+[!MasterHead](C:\Users\uzmak\Downloads\banner-web-design.png)
 <h1 align="center">Hi 👋, I'm uzmakousaruzma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://as1.ftcdn.net/v2/jpg/01/19/93/08/1000_F_119930885_EoHnPyz7BgE7BPkI5NCkYLV0L3KopCcu.jpg">
