@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@shk_uzma_sadiq" target="blank"><img src="https://img.shields.io/twitter/follow/@shk_uzma_sadiq?logo=twitter&style=for-the-badge" alt="@shk_uzma_sadiq" /></a> </p>
 
-- 🌱 I’m currently learning **Aungular,hibernate**
+- 🌱 I’m currently learning **Angular,hibernate**
 
 - 📫 How to reach me **uzmakousar2004@gmail.com**
 
